@@ -1,0 +1,8 @@
+C:\Users\ITC\source\repos\Ahmed\Ahmed\obj\Debug\Ahmed.csproj.AssemblyReference.cache
+C:\Users\ITC\source\repos\Ahmed\Ahmed\obj\Debug\Ahmed.csproj.SuggestedBindingRedirects.cache
+C:\Users\ITC\source\repos\Ahmed\Ahmed\obj\Debug\Ahmed.csproj.CoreCompileInputs.cache
+C:\Users\ITC\source\repos\Ahmed\Ahmed\bin\Debug\Ahmed.exe.config
+C:\Users\ITC\source\repos\Ahmed\Ahmed\bin\Debug\Ahmed.exe
+C:\Users\ITC\source\repos\Ahmed\Ahmed\bin\Debug\Ahmed.pdb
+C:\Users\ITC\source\repos\Ahmed\Ahmed\obj\Debug\Ahmed.exe
+C:\Users\ITC\source\repos\Ahmed\Ahmed\obj\Debug\Ahmed.pdb
